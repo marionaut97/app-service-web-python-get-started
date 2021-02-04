@@ -2,7 +2,7 @@
 
 Thank you for your interest in contributing to Azure samples!
 
-## Ways to contribute
+## Ways to contributet
 
 You can contribute to [Azure samples](https://azure.microsoft.com/documentation/samples/) in a few different ways:
 
